@@ -64,5 +64,8 @@ a) To show average age of students
 b) Donut chart for total amount of purchases by ‘Store 
 location’
 
+![image](https://github.com/user-attachments/assets/612704fd-45da-4a91-8800-c8d020f848a9)
+
+
 
 
