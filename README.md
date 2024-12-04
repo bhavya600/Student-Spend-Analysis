@@ -28,6 +28,7 @@ setting’: -
 color 
  If TAP>=60000, then records should be in Blue color 
 
+![image](https://github.com/user-attachments/assets/05490906-aef8-4309-9e28-b3773a0c588b)
  
 2. Matrix Visualization – Create Matrix Visualization to show 
 the amount spent on Outdoor sports across 
