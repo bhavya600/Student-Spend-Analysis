@@ -66,6 +66,44 @@ location’
 
 ![image](https://github.com/user-attachments/assets/612704fd-45da-4a91-8800-c8d020f848a9)
 
+Conclusion: Student Spend Analysis Report
+
+The Power BI report provided insights into the spending behaviors of students at various stores across different locations and settings. Through various visualizations, we were able to identify trends and patterns related to the total amount of purchases (TAP) and other spending categories.
+
+Tabular Visualization:
+
+The color-coded formatting for TAP (Red, Yellow, Blue) helped easily identify the intensity of spending in each store based on its location and setting. The report highlighted stores with lower TAPs in red, mid-range TAPs in yellow, and higher TAPs in blue. This provides a clear view of which stores are attracting more or fewer students based on their spending levels.
+Matrix Visualization:
+
+The matrix allowed for a comparison of spending on Outdoor Sports across various age groups and store settings. This visualization provided a detailed view of how spending varies depending on age and store type, with color formatting emphasizing areas of higher and lower spending.
+
+Funnel Chart:
+
+The funnel chart effectively illustrated the total amount spent by students at stores categorized by their settings. The percentage labels gave a quick visual representation of the proportion of total spending per store setting, aiding in identifying which store settings are most popular.
+
+Pie Chart:
+
+For suburban store settings, the pie chart presented the total amount of purchases by store location, providing insights into the proportion of student spending at these specific stores. By using filters, the chart focused only on suburban store settings, giving a clear breakdown of spending across different locations within these settings.
+
+Scatter Plot:
+
+The scatter plot visualized the relationship between video game purchases and outdoor sports spending across different age groups. This plot helped in understanding how students' spending behavior on these categories varied with age, potentially revealing patterns of interest or preference.
+
+Q&A Feature:
+
+The Q&A feature of Power BI provided additional insights, such as the average age of students and the total amount of purchases by store location in a donut chart. These interactive features added flexibility, allowing for quick exploration of the data and insights that may not have been directly visible through other visualizations.
+
+Key Takeaways:
+
+Age and Spending Habits: 
+
+Younger students tend to spend more on certain categories like video games and outdoor sports, with the amount spent increasing or decreasing with age.
+Store Location and Setting Impact: The store’s location and setting have a significant influence on student spending patterns. Suburban stores, in particular, tend to have higher total purchase amounts.
+
+Visual Insights: 
+
+The use of color formatting in the visuals made it easier to quickly interpret spending patterns, helping to pinpoint key areas of interest in student spending.
+In conclusion, the report provides actionable insights into student spending behavior, which can assist in targeted marketing, store placement strategies, and product offerings to better cater to the student demographic.
 
 
 
