@@ -34,6 +34,9 @@ the amount spent on Outdoor sports across
 different ages and ‘Store setting’. Do the color formatting for 
 the amount spent in total outdoor sports. 
 
+
+![image](https://github.com/user-attachments/assets/47eaf5e8-4aef-4e1c-8d12-033ef26249a1)
+
 3. Funnel chart – Create a Funnel chart to show Total amount 
 of purchase by ‘Store setting’. Show the 
 data labels as Percentage of First. 
