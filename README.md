@@ -54,9 +54,12 @@ only. Hint: Use Filter context
 
  
 7. a) Scatter plot - Video games purchase and Outdoor sports 
-spent across the different ages. 
+spent across the different ages.
+
+![image](https://github.com/user-attachments/assets/6b43c0ef-00ca-4f4e-b5d1-88425cbebd55)
+
  
-8. Use Q&A feature of Power BI – 
+9. Use Q&A feature of Power BI – 
 a) To show average age of students 
 b) Donut chart for total amount of purchases by ‘Store 
 location’
