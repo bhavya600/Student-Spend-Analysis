@@ -47,12 +47,16 @@ data labels as Percentage of First.
 
 5. Pie chart – Show the total amount of purchase by different 
 ‘Store location’ for Suburban ‘Store setting’ 
-only. Hint: Use Filter context 
+only. Hint: Use Filter context
+
+
+![image](https://github.com/user-attachments/assets/0859eddd-40ac-416e-b70a-b938c040fc44)
+
  
-6. a) Scatter plot - Video games purchase and Outdoor sports 
+7. a) Scatter plot - Video games purchase and Outdoor sports 
 spent across the different ages. 
  
-7. Use Q&A feature of Power BI – 
+8. Use Q&A feature of Power BI – 
 a) To show average age of students 
 b) Donut chart for total amount of purchases by ‘Store 
 location’
