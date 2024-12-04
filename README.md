@@ -40,16 +40,19 @@ the amount spent in total outdoor sports.
 
 3. Funnel chart – Create a Funnel chart to show Total amount 
 of purchase by ‘Store setting’. Show the 
-data labels as Percentage of First. 
+data labels as Percentage of First.
 
-4. Pie chart – Show the total amount of purchase by different 
+![image](https://github.com/user-attachments/assets/3f27c98c-3ae6-40ae-b8e2-4bcc01c25f5d)
+
+
+5. Pie chart – Show the total amount of purchase by different 
 ‘Store location’ for Suburban ‘Store setting’ 
 only. Hint: Use Filter context 
  
-5. a) Scatter plot - Video games purchase and Outdoor sports 
+6. a) Scatter plot - Video games purchase and Outdoor sports 
 spent across the different ages. 
  
-6. Use Q&A feature of Power BI – 
+7. Use Q&A feature of Power BI – 
 a) To show average age of students 
 b) Donut chart for total amount of purchases by ‘Store 
 location’
